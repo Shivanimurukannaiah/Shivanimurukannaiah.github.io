@@ -6,4 +6,4 @@
 to make a link :
 [click here to for a link](https://shivanimurukannaiah.github.io)
 
-![Dumbass]("C:\Users\SHIVANI M\Downloads\download.jpg")
+![Dumb]("![image](https://github.com/user-attachments/assets/e36bda7a-d304-4393-94aa-20b589c814be)")
